@@ -24,8 +24,8 @@ Build a software environment, clone the demo, compile and burn it to the hardwar
 The driver part of an sx1262 references the semtech official routine [Driver routine](https://github.com/Lora-net/SWSD003).
 
 ## Link
-WTLRC262-SG：https://www.wireless-tag.com/product-item-58.html
+WTLRC262-SG Datasheets：https://www.wireless-tag.com/product-item-58.html
 
-ESP8684：https://www.espressif.com.cn/en/products/socs/esp32-c2
+ESP8684 Datasheets：https://www.espressif.com.cn/en/products/socs/esp32-c2
 
-SX1262：https://www.semtech.com/products/wireless-rf/lora-connect/sx1262
+SX1262 Datasheets：https://www.semtech.com/products/wireless-rf/lora-connect/sx1262
